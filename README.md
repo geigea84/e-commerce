@@ -3,6 +3,7 @@
 Needs updating:
 category-routes.js
 product-routes.js
+tag-routes.js
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
