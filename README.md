@@ -1,5 +1,17 @@
 # E-Commerce Back End
 
+The purpose of this project is to create a back-end for an e-commerce site using Sequelize and a MySQL database.
+
+Functionality Videos:
+
+Video part 1
+
+https://drive.google.com/file/d/11Hz3CKi8WNsUZKF3Laa-bKYswqYDnNtk/view (Links to an external site.)
+
+Video part 2
+
+https://drive.google.com/file/d/1aKdzvb-C_juvqmEQTsuDXEqqVdW8f5PO/view
+
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
